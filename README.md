@@ -5,7 +5,7 @@ The Rscript shows the reprocess of raw data, using the package Rawrr, to extract
 
 One jupyter notebook illustrates the train and test process for the CNN and LDA models, and the other one presents an example of prediction based on a set of anonymized inputs.
 
-![workflow](https://github.com/user-attachments/assets/29a68e45-2e1c-4bac-8186-6fab96f3c199)
+![workflow](https://github.com/user-attachments/assets/d64378de-50ce-4cab-ab1d-abd53377a5c8)
 
 *Figure: Worflow of the AI-based tool from raw data to CNN scoring and LDA classification.*
 
